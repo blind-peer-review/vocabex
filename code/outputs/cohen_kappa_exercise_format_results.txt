@@ -1,0 +1,16 @@
+cohen_kappa_report:  ./resources/cohen_kappa_exercise_format.csv
+Confusion Matrix:
+[[ 45   8   0 ...   0   0   0]
+ [  0   0   0 ...   0   0   0]
+ [  0   0 128 ...   0   0   0]
+ ...
+ [  0   0   0 ...  55   0   0]
+ [  0   0   0 ...   0   0   0]
+ [  0   0   0 ...   0   9  30]]
+kappa (sklearn) = 0.900
+kappa = 0.900
+p_o = 0.907, p_e = 0.073
+standard error = 0.009
+95% CI = (0.883, 0.917)
+z-value = 102.826
+p-value = 0.000e+00
